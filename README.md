@@ -1,16 +1,32 @@
-## Hi there 👋
+### 🌟 About Me
 
-<!--
-**GautamCoder4019k/GautamCoder4019k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Currently exploring **Android**, **Compose**, and **KMM**. 
+- 👯 I’m looking to collaborate on android projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience  
+
+- **Android developer** at **Eight**  
+- **Android developer** at **Chatwise**
+
+### 📊 Stats :
+[![Badge](https://cp-logo.vercel.app/codechef/gautam_coder1)](https://www.codechef.com/users/gautam_coder1) [![Codeforces](https://badges.riever.dev/codeforces/gautamcoder4019k.svg)](https://codeforces.com/profile/gautamcoder4019k)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=GautamCoder4019k&theme=black-ice&hide_border=true&card_width=705">
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GautamCoder4019k&theme=transparent">
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GautamCoder4019k&theme=transparent">
+    </td>
+  </tr>
+</table>
+
