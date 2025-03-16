@@ -7,7 +7,6 @@
 ### 💼 Experience  
 
 - **Android developer** at **Eight**  
-- **Android developer** at **Chatwise**
 
 ### 📊 Stats :
 [![Badge](https://cp-logo.vercel.app/codechef/gautam_coder1)](https://www.codechef.com/users/gautam_coder1) [![Codeforces](https://badges.riever.dev/codeforces/gautamcoder4019k.svg)](https://codeforces.com/profile/gautamcoder4019k)
